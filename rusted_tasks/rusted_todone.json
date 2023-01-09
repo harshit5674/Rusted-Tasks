@@ -1,0 +1,14 @@
+[
+{
+	"task": "Read 1 chapter of opti",
+	"code_red": "no",
+	"date" : "19/01/22",
+	"status":"no"
+},
+{
+	"task": "Read 2 chapter of opti",
+	"code_red": "yes",
+	"date" : "20/01/22",
+	"status":"yes"
+}
+]

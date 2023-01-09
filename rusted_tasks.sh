@@ -7,7 +7,9 @@ normal=$(tput sgr0)
 
 if [ "$*" = "" ]
 then
-	echo "${bold}rusted"
+	echo "${bold}-----------------------Your tasks for Today"
+	echo ""
+	/Users/harshit/Programs/Rusted-Tasks/rusted_tasks/target/debug/rusted_tasks default
 elif [ "$1" = "date" ]
 then
 	echo "${bold}date"
