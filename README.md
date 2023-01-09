@@ -1,4 +1,6 @@
 # Rusted-Tasks
+As the name suggests, this application entirely written in Rust is used to manage your everyday Tasks.
+
 * rusted -> for all the tasks to do by today and code red tasks.
 * rusted date -> for all the taks to do by that date.
 * rusted clear -> clear all done tasks.
