@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 json = "0.12.4"
+colored = "2.0.0"
+chrono = "0.4.23"

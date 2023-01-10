@@ -1,14 +1,14 @@
 [
 {
 	"task": "Read 1 chapter of opti",
-	"code_red": "no",
-	"date" : "19/01/22",
+	"code_red": "yes",
+	"date" : "19/01/2023",
 	"status":"no"
 },
 {
 	"task": "Read 2 chapter of opti",
-	"code_red": "yes",
-	"date" : "20/01/22",
+	"code_red": "no",
+	"date" : "11/01/2023",
 	"status":"yes"
 }
 ]
